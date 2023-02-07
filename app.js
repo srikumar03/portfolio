@@ -11,7 +11,7 @@ window.addEventListener('load', function () {
         overlay.style.filter = 'alpha(opacity=' + op * 100 + ")";
         op -= op * 0.1;
 
-    },55);
+    },50);
 });
 
 (function () {
