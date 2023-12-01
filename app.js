@@ -14,6 +14,7 @@ window.addEventListener('load', function () {
     },50);
 });
 
+
 (function () {
     [...document.querySelectorAll(".control")].forEach(button => {
         button.addEventListener("click", function () {
